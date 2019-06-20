@@ -1,0 +1,3 @@
+[submodule "darkriscv"]
+	path = darkriscv
+	url = ./darkriscv
